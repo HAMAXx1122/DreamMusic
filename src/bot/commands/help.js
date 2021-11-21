@@ -33,7 +33,7 @@ module.exports = {
  \`${prefix}support \`
  \`${prefix}info \`
 
-Hey Want To Invite Me Click The Invite Button**[ \`invite\` ]()** Need Help Join Our Support Server **[ \`support\` ]()** 
+Hey Want To Invite Me Click The Invite Button**[ \`invite\` ](https://discord.com/api/oauth2/authorize?client_id=830265742795866162&permissions=8&scope=bot)** Need Help Join Our Support Server **[ \`support\` ](https://discord.gg/JZSpq4BSDS)** 
    `);
               
          
