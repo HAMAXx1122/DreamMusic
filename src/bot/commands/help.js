@@ -13,29 +13,18 @@ module.exports = {
                
                
                 .setDescription(`
-> **Info Commands**
-> \`${prefix}play \`
-> \`${prefix}skip \`
-> \`${prefix}nowplaying \`
-> \`${prefix}loop \`
-> \`${prefix}queue \`
-> \`${prefix}lyrics \`
-> \`${prefix}join \`
-> \`${prefix}pause \`
-> \`${prefix}resume \`
-> \`${prefix}radio \`
-> \`${prefix}stop \`
-> \`${prefix}filter \`
-> \`${prefix}prefix \`
-> \`${prefix}leave \`
-> \`${prefix}volume \`
-> \`${prefix}ping \`
-> \`${prefix}invite \`
-> \`${prefix}support \`
-> \`${prefix}info \`
-> **[ \`invite\` ](https://discord.com/api/oauth2/authorize?client_id=791856757844475914&permissions=0&scope=bot)** , **[ \`support\` ](https://discord.gg/7sEtecbAM6)** 
-   `);
+          **Music Command**
+ %play` • `%stop` • `%skip`  • `%volume `
+` %queue` • `%loop` • `%nowplaying `
+` %radio` • `%filter` • `%lyrics` • `%resume`
+` %leave` • `%Pause ` • `%Join` • `%
+User&Info Command
+` %bot` • `%support` • `%invite` • `%ping`
 
+[ `invite` ](https://discord.com/api/oauth2/authorize?client_id=830265742795866162&permissions=2048&scope=bot) 
+[ `support` ](https://discord.gg/JZSpq4BSDS)
+[ `website Cooming Soon`]()
+ `)
 
               
          
