@@ -19,9 +19,11 @@ module.exports = {
     
     .addField( "`My Prefix` ",`**R**`,true)
     
+    .addField( "`What I Do` ",`**Play Music**`,true) 
+            
     .addField("`Language Program`",  `**Java Script**`, true)
             
-    .addField( "`developer bot` ",`<@!923278601686753281>`,true)          
+    .addField( "`Owner And Developer` ",`<@!923278601686753281>`,true)          
          
             setTimeout(() => {
                 message.channel.send({
