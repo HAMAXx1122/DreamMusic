@@ -12,7 +12,11 @@ module.exports = {
                
                
                 .setDescription(`
- **[ Need Help Join Here ](https://discord.gg/TfBAUPCCY2)**   
+**Need Help With Commands or The Bot
+Join Our Support Server We Are Ready To 
+Help You Out At All Times With All Languages**
+
+**[ Support Server ](https://discord.gg/TfBAUPCCY2)**   
    `);
 
 
