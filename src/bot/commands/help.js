@@ -13,24 +13,19 @@ module.exports = {
                
                
                 .setDescription(`
-Play - Skip - NowPlaying
-Loop - Queue - lyrics
-Join - Pause - Resume
+
+**__Music Commands__**
+Play - Skip - NowPlaying - Loop - Queue - lyrics
+Join - Pause - Resume - Radio - Stop - Fiter
+Prefix - Leave - Volume
+**__Info Comannds__**
+Info - Ping - Invite - 
+Support
+
+ 
 
 
- \`${prefix}resume \`
- \`${prefix}radio \`
- \`${prefix}stop \`
- \`${prefix}filter \`
- \`${prefix}prefix \`
- \`${prefix}leave \`
- \`${prefix}volume \`
- \`${prefix}ping \`
- \`${prefix}invite \`
- \`${prefix}support \`
- \`${prefix}info \`
-
-Hey Want To Invite Me Click The Invite Button**[ \`invite\` ](https://discord.com/api/oauth2/authorize?client_id=830265742795866162&permissions=8&scope=bot)** Need Help Join Our Support Server **[ \`support\` ](https://discord.gg/JZSpq4BSDS)** 
+Invite Me **[ \`Invite\` ](https://discord.com/api/oauth2/authorize?client_id=873989388302946344&permissions=414530771264&scope=bot)** Need Help Join Our Support Server **[ \`Support\` ](https://discord.gg/TfBAUPCCY2)** 
    `);
               
          
