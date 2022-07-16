@@ -13,9 +13,9 @@ module.exports = {
                
                
                 .setDescription(`
-${prefix}play - ${prefix}skip - ${prefix}nowplaying
-${prefix}loop - ${prefix}queue - ${prefix}lyrics
-${prefix}join - ${prefix}pause - ${prefix}resume
+Play - Skip - NowPlaying
+Loop - Queue - lyrics
+Join - Pause - Resume
 
 
  \`${prefix}resume \`
