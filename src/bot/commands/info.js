@@ -23,7 +23,7 @@ module.exports = {
             
     .addField( "`Servers&Users`",`**${client.guilds.cache.size} Servers,Users ${client.guilds.cache.reduce((a, g) => a + g.memberCount, 0)}**`,true)
 
-   .addField("`Language Program`",  `**Java Script**`, true)
+   .addField("`My Ping`",  `** ${Math.round(client.ws.ping)}**`, true)
             
     .addField( "`Owner And Developer` ",`<@!923278601686753281>`,true)          
          
