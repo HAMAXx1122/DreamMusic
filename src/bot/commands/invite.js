@@ -8,7 +8,7 @@ module.exports = {
             var prefix = await require('quick.db').fetch(`prefix_${message.guild.id}`);
             if (prefix == null) prefix = require('../../config/bot').prefix;
             let help = new MessageEmbed()
-                .setColor('BLUE')
+                .setColor('RED')
                
                
                 .setDescription(`
