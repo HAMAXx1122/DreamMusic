@@ -21,7 +21,7 @@ module.exports = {
     
     .addField( "`What I Do` ",`**Play Music**`,true) 
             
-    .addField( "`Servers&Users`",`**${client.guilds.cache.size} Server,Users ${client.guilds.cache.reduce((a, g) => a + g.memberCount, 0)}**`,true)
+    .addField( "`Servers&Users`",`**${client.guilds.cache.size} Servers,Users ${client.guilds.cache.reduce((a, g) => a + g.memberCount, 0)}**`,true)
 
    .addField("`Language Program`",  `**Java Script**`, true)
             
