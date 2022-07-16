@@ -13,14 +13,11 @@ module.exports = {
                
                
                 .setDescription(`
- \`${prefix}play \`
- \`${prefix}skip \`
- \`${prefix}nowplaying \`
- \`${prefix}loop \`
- \`${prefix}queue \`
- \`${prefix}lyrics \`
- \`${prefix}join \`
- \`${prefix}pause \`
+${prefix}play - ${prefix}skip - ${prefix}nowplaying
+${prefix}loop - ${prefix}queue - ${prefix}lyrics
+${prefix}join - ${prefix}pause - ${prefix}resume
+
+
  \`${prefix}resume \`
  \`${prefix}radio \`
  \`${prefix}stop \`
