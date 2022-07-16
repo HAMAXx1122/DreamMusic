@@ -1,6 +1,6 @@
 require('dotenv').config();
 
 module.exports = {
-    token: 'ODMwMjY1NzQyNzk1ODY2MTYy.YHELOg.imN1MgA_Mv7qaEziIVxkqp4fdXY',
-    prefix: 'D'
+    token: 'ODczOTg5Mzg4MzAyOTQ2MzQ0.GaXgdX.ool-Or2T3zOtCH0pOTzL6t9Y13GHNzaN7rhQz0',
+    prefix: 'R'
 }
