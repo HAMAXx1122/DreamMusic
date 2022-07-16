@@ -12,7 +12,7 @@ module.exports = {
                
                
                 .setDescription(`
- **[ Need Help Join  ](https://discord.gg/JZSpq4BSDS)**   
+ **[ Need Help Join Here ](https://discord.gg/TfBAUPCCY2)**   
    `);
 
 
