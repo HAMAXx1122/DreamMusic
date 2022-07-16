@@ -15,7 +15,7 @@ module.exports = {
                 
                 **Invite, Of ReynaBot.Thanks For Inviting Me**
                 
-  **[ Invite , THank ](https://discord.com/api/oauth2/authorize?client_id=873989388302946344&permissions=414530771264&scope=bot)** 
+  **[ Invite](https://discord.com/api/oauth2/authorize?client_id=873989388302946344&permissions=414530771264&scope=bot)** 
    `);
 
 
