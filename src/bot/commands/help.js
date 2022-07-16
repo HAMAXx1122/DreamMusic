@@ -18,11 +18,11 @@ module.exports = {
 Play - Skip - NowPlaying - Loop - Queue - lyrics
 Join - Pause - Resume - Radio - Stop - Fiter
 Prefix - Leave - Volume
+
 **__Info Comannds__**
 Info - Ping - Invite - 
 Support
 
- 
 
 
 Invite Me **[ \`Invite\` ](https://discord.com/api/oauth2/authorize?client_id=873989388302946344&permissions=414530771264&scope=bot)** Need Help Join Our Support Server **[ \`Support\` ](https://discord.gg/TfBAUPCCY2)** 
