@@ -13,19 +13,15 @@ module.exports = {
                
 
 
-    .addField("`my name`", `**DreamMusic#5761**`, true)
+    .addField("`My Name Is`", `**ReynaBot**`, true)
 
     .addField("`My ID`",  `**830265742795866162**`, true)
     
-    .addField( "`My Prefix` ",`**D**`,true)
-    
-    .addField("`Node.js Version`",  `**12**`, true)
+    .addField( "`My Prefix` ",`**R**`,true)
     
     .addField("`Language Program`",  `**Java Script**`, true)
-    
-    .addField("`Discord.js `",  `**12.5.1**`, true)
-    
-    .addField( "`developer bot` ",`<@!840603533144490024>`,true)          
+            
+    .addField( "`developer bot` ",`<@!923278601686753281>`,true)          
          
             setTimeout(() => {
                 message.channel.send({
