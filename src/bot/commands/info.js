@@ -21,7 +21,9 @@ module.exports = {
     
     .addField( "`What I Do` ",`**Play Music**`,true) 
             
-    .addField("`Language Program`",  `**Java Script**`, true)
+    .addField( "`How Much Servers i Work in`",`**${client.guilds.cache.size}**`,true)
+
+   .addField("`Language Program`",  `**Java Script**`, true)
             
     .addField( "`Owner And Developer` ",`<@!923278601686753281>`,true)          
          
