@@ -13,9 +13,9 @@ module.exports = {
                
                 .setDescription(`
                 
-                **Invite, DreamMusic**
+                **Invite, Of ReynaBot.Thanks For Inviting Me**
                 
-  **[ Invite Me Now , thanks ](https://discord.com/api/oauth2/authorize?client_id=830265742795866162&permissions=8&scope=bot)** 
+  **[ Invite , THank ](https://discord.com/api/oauth2/authorize?client_id=873989388302946344&permissions=414530771264&scope=bot)** 
    `);
 
 
