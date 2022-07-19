@@ -13,7 +13,7 @@ module.exports = {
                
                 .setDescription(`
                 
-                **Thanks For Inviting ReynaBot. We Hope You Enjoy**
+                **Thanks For Inviting Nova Bot. We Hope You Enjoy**
                 
   **[Invite Reyna](https://discord.com/api/oauth2/authorize?client_id=873989388302946344&permissions=414530771264&scope=bot)** 
    `);
