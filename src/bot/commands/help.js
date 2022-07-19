@@ -14,7 +14,7 @@ module.exports = {
                
                 .setDescription(`
 
-**__To Play Songs Before Type Rjoin So The Bot Could join The Voice Channel Then Use Rplay Song Name__**
+**__To Play Songs Before Type Njoin So The Bot Could join The Voice Channel Then Use Rplay Song Name__**
 
 **__Music Commands__**
 Play - Skip - NowPlaying - Loop - Queue - lyrics
