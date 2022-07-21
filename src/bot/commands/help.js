@@ -18,7 +18,7 @@ module.exports = {
 
 **__Music Commands__**
 Play - Skip - NowPlaying - Loop - Queue - lyrics
-Join - Pause - Resume - Radio - Stop - Fiter
+Join - Pause - Resume - Radio - Stop - Filter
 Prefix - Leave - Volume
 
 **__Info Comannds__**
