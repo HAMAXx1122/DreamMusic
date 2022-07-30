@@ -13,7 +13,7 @@ module.exports = {
                
 
 
-    .addField("`My Name Is`", `**Nova Music**`, true)
+    .addField("`My Name Is`", `**Minus Bot**`, true)
 
     .addField("`My ID`",  `**830265742795866162**`, true)
     
