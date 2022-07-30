@@ -17,7 +17,7 @@ module.exports = {
 
     .addField("`My ID`",  `**830265742795866162**`, true)
     
-    .addField( "`My Prefix` ",`**N**`,true)
+    .addField( "`My Prefix` ",`**-**`,true)
     
     .addField( "`What I Do` ",`**Play Music**`,true) 
             
